@@ -1,12 +1,12 @@
 # Data Security and Privacy Statement
 
-**ASiC Signature Viewer for Jira Cloud**
+**ASiC Viewer Cloud for Jira Cloud**
 
 *Last Updated: September 16, 2025*
 
 ## 1. Overview
 
-The ASiC Signature Viewer for Jira Cloud app ("the App") is built on the Atlassian Forge platform, which is designed with security and privacy as a first principle. The App adheres to strict security standards by ensuring that your data is processed securely and is never stored or transmitted outside of the Atlassian ecosystem.
+The ASiC Viewer Cloud for Jira Cloud app ("the App") is built on the Atlassian Forge platform, which is designed with security and privacy as a first principle. The App adheres to strict security standards by ensuring that your data is processed securely and is never stored or transmitted outside of the Atlassian ecosystem.
 
 ## 2. Data Processing
 
